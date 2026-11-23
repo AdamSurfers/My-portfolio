@@ -1,2 +1,19 @@
-# My-portfolio
-My Portfolio v.o.1
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <title>My Portfolio</title>
+    </head>
+    <body>
+        <h1>Howdy!!! Welcome to my Portfolio</h1>
+        <p>My name is Ahmad and I am a passionate web developer.</p>
+        <p>Please, check out my projects below, and feel free to reach out if you have any questions or would like to collaborate!</p>
+        <ol style="list-style-type: none;">
+            <li><a href="./Projects/Movies.html" target="_blank"><img src="./Assets/Images/movies.PNG" alt="Movies.html"></a></li>
+            <li><a href="./Projects/Birthday.html" target="_blank"><img src="./Assets/Images/birthday.PNG" alt="Birthday.html"></a></li>
+        </ol>
+        <hr />
+        <a href="./Public/contact.html" target="_blank">Contact Me</a><br />
+        <a href="./Public/about.html" target="_blank">About Me</a>
+    </body>
+</html>
